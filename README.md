@@ -31,6 +31,10 @@ Would be great, if you :link: put a link to my template, if you use this reposit
 
 <p align = "justify">:bookmark: Relevant information related to project deployment, planning, production ready code. For more information :interrobang: on individual version check <a href = "CHANGELOG.md">CHANGELOG</a>. :heavy_check_mark:</p>
 
-### LICENSE & Contributions
+## LICENSE & Contributions
 
 <p align = "justify">:label: A <a href = "CONTRIBUTING.md">CONTRIBUTING.md</a> file, in your open source repository or site, provides potential project contributors with a short guide to how they can help with your project or study group. It is convention to capitalize the word "contributing" as the file title, and to save it as a resource in markdown (hence the extension .md) (<a href = "https://mozillascience.github.io/working-open-workshop/contributing/">source</a>). :writing_hand: For <b>LICENSE</b> create or add your own file as <code>LICENSE</code>.</p>
+
+## Resources
+
+<p align = "justify">:card_index: Documentation and/or Resources for your codes, and other mentions can be included in this section! :key:</p>
