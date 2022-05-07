@@ -1,0 +1,96 @@
+
+# .gitattributes for Python-Files
+# Check https://github.com/alexkaratarakis/gitattributes for More Informations
+# Video Tutorial is available at https://www.youtube.com/watch?v=2E_ICZagmj4
+
+# Auto Detect text-Files and perform LF Normalizations
+* text=auto
+
+#
+# The above will handle all files NOT found below
+#
+
+# text/documents/latex files
+*.md     text diff=markdown
+*.csv    text
+*.tab    text
+*.tsv    text
+*.tex    text diff=tex
+*.info   text
+*.bibtex text diff=bibtex
+# also treat all serialization file as text
+*.json   text
+*.toml   text
+*.xml    text
+*.yaml   text
+*.yml    text
+
+# Graphics
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.tif  binary
+*.tiff binary
+*.ico  binary
+# SVG treated as an asset (text) by default.
+*.svg  text
+# If you want to treat it as binary, use the following line instead.
+# *.svg  binary
+*.eps  binary
+
+# Scripts
+# lf = line feeds, used by most *.nix for end-line charecter
+# cr = carriage return used as crlf in windows operating system
+*.sh   text eol=lf
+*.bash text eol=lf
+*.fish text eol=lf
+# These are explicitly windows files and should use crlf
+*.bat  text eol=crlf
+*.cmd  text eol=crlf
+
+# Archives
+*.7z  binary
+*.gz  binary
+*.tar binary
+*.tgz binary
+*.zip binary
+
+# git should not attempt automatic line feed, diff, and merge attempts for these types of files.
+*.pdf  -crlf -diff -merge
+# microsoft word files
+*.xls  -crlf -diff -merge
+*.doc  -crlf -diff -merge
+*.ppt  -crlf -diff -merge
+*.xlsx -crlf -diff -merge
+*.docx -crlf -diff -merge
+*.pptx -crlf -diff -merge
+
+##---------------------------------------------------
+# Python
+##---------------------------------------------------
+
+# Basic .gitattributes for a python repo.
+
+# Source files
+# ============
+*.py  text diff=python linguist-language=python
+*.pxd text diff=python
+*.py3 text diff=python
+*.pyi text diff=python
+*.pyw text diff=python
+*.pyx text diff=python
+*.pyz text diff=python
+
+# Binary files: *.py[cod] is IGNORED in .gitignore
+# Make Necessary Changes, and add them as binary - if Required
+# ============================================================
+*.p      binary
+*.db     binary
+*.pkl    binary
+*.pickle binary
+
+# Note: .db, .p, and .pkl files are associated
+# with the python modules ``pickle``, ``dbm.*``,
+# ``shelve``, ``marshal``, ``anydbm``, & ``bsddb``
+# (among others).
