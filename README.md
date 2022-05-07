@@ -9,8 +9,7 @@ Would be great, if you :link: put a link to my template, if you use this reposit
 
 Please add/modify the project details on your first project start, as [documentation is important](https://www.atlassian.com/work-management/knowledge-sharing/documentation/importance-of-documentation) and let end user have proper knowledge!
 
-> Client Name: `client name`
-> Client Details: `client details/informations`
+> Client Name: `client name` (`client details/informations`)
 
 ### Explorative Results
 
@@ -22,6 +21,10 @@ Please add/modify the project details on your first project start, as [documenta
 
 <p align = "justify">Information about the used models/engines/agents and their performance can be documented here. An AI/ML trained model can be stored in their respective directories.</p>
 
-### Usage
+### Configurations
 
-<p align = "justify"></p>
+<p align = "justify">A <a href = "config"><code>config</code></a> directory is available to store and configure project with variables, values and/or other informations related to project template.</p>
+
+### Project Deployment and Planning
+
+<p align = "justify">Relevant information related to project deployment, planning, production ready code. For more information on individual version check <a href = "CHANGELOG.md">CHANGELOG</a>.</p>
