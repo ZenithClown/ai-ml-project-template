@@ -1,0 +1,3 @@
+# Contributing Guidelines
+
+<p align = "justify">:writing_hand: This template file is intended to be used for open source project. However, you may also use this in any private/protected repositories of your choice. Considering <i>open source</i> the file provides a basic layout to <b>contributing guidelines</b> in here (you may also delete the file, and make necessary adjustments in <a href = "README.md#license--contributions">README</a> file). We welcome any type of contribution to out software and/or code base - from a simple comment to a full fledged <a href = "https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests">pull-requests</a>. </p>
