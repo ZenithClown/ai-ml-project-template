@@ -6,6 +6,14 @@
   <a href="https://makeapullrequest.com/"><img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=plastic&logo=open-source-initiative"></a>
 </h1>
 
+<div align = "justify">
+
+**Objective:** A *simple* and *well-desgined* template structure to start a machine learning/deep learning based projects. The template provides a basic directory structure with additional files (like [`notebooks/BOILERPLATE.ipynb`](./notebooks/BOILERPLATE.ipynb) to perform EDA. In addition, the template is desgined such that code can be deployed into production. *Quickly get started* working on the code, and prepare documentation as highlighted below. To understand more about the template check [**HOWTO.md**](./HOWTO.md) file.
+
+---
+
+</div>
+
 <p align = "justify">AI-ML :brain: is an extremely fast growing environment where millions of new commits :eye: and thousands of users :man: :woman: are actively engaging on a daily basis :calendar:. To start a new project :package:, one should generally setup a basic project structure with some default branches and files. <a href = "https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository">GitHub Templates</a> solves this by setting up a template from an existing repositories. The template :receipt: provides minimalistic approach to quickly start a machine learning/artificial intelligence project. :gear:</p>
 
 <p align = "justify">For more information :bulb: on how to use this template and getting started, check <a href = "HOWTO.md">HOWTO</a>. Feel free to use the template as it suits you! :rocket:
