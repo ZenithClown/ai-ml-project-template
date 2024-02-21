@@ -1,4 +1,4 @@
-<h1 align = "center">Utilities Module</div>
+<h1 align = "center">Utilities Module</h1>
 
 ---
 
