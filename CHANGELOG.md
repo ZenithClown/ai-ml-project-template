@@ -4,6 +4,12 @@
 
 <div align = "justify">
 
+## [v0.1.2](https://github.com/ZenithClown/ai-ml-project-template/releases/tag/v0.1.2) - Minor Bug Fixes
+
+Minor Bug Fixes:
+ * Moved *jupyter notebooks* under [examples](./examples/) directory,
+ * Added [README.md](./utilities/README.md) for utilities directory, TODO add featured submodules link.
+
 ## [v0.1.1](https://github.com/ZenithClown/ai-ml-project-template/releases/tag/v0.1.1) : Fully Functional & Minimal Template
 
 Minimal AI/ML project template with minimal requirements and settings file. An useful boilerplate ipython notebook file is provided to quickly get-started with exploratory data analysis and model development. This version mainly focuses on:
