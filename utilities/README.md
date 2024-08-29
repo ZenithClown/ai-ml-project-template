@@ -15,10 +15,13 @@ the current repository - this is typically useful to remove code-duplicacy and c
 More information on initializing and using submodule is available [here](https://www.youtube.com/watch?v=gSlXo2iLBro).
 Check [Github-GISTS/ZenithClown](https://gist.github.com/ZenithClown) for more information.
 
-> [!NOTES]
+</div>
+
+> [!NOTE]
 > The code documentation for all the important submodules are hosted at [Read the Docs](https://ds-gringotts.readthedocs.io/en/latest/).
 
-> [!ATTENTION]
+> [!CAUTION]
 > Found some issues/bugs with the existing codes? Please raise a PR [here](https://github.com/code-archived/ds-gringotts).
 
-</div>
+> [!NOTE]
+> More information about attention blocks is available [here](https://github.com/orgs/community/discussions/16925) for GitHub Markdowns.
