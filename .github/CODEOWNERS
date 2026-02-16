@@ -1,0 +1,11 @@
+# Defines Code Owners for the Repository
+
+# A code owner is a person(s)/organization(s) that manages or handles the repository
+# where `.github/CODEOWNERS` file is defined. The syntax follows `.gitignore` style, with
+# some exceptions (check documentation for more information).
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# The owners specified below are the default owner of any/all the
+# files available under the repository, unless so specified by the order
+# of precendence (if found later).
+* @ZenithClown
