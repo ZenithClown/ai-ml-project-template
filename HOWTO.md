@@ -2,7 +2,9 @@
 
 <div align = "justify">
 
-The template provides a minimal approach for getting started with an AI/ML project, and has hardly any dependencies required. However, the [`examples/BOILERPLATE.ipynb`](examples/BOILERPLATE.ipynb) provides popular import and its configurations (like `pandas`, `numpy`, `scikit-learn` and `tensorflow`). A high level directory overview is as follows:
+The template provides a minimal approach for getting started with an AI/ML project, and has hardly any dependencies required.
+However, the [`examples/BOILERPLATE.ipynb`](examples/BOILERPLATE.ipynb) provides popular import and its configurations
+(like `pandas`, `numpy`, `scikit-learn` and `tensorflow`). A high level directory overview is as follows:
 
 ```
 ├───config          : store all configuration files/functions
