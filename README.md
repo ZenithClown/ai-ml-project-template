@@ -69,6 +69,9 @@ title, and to save it as a resource in markdown (hence the extension .md)
 ✍ The code adheres to the open-source [MIT License](./LICENSE) but any project may use alternate license as per project
 requirement - change and/or adjust the file.
 
+✍ The code repository comes with [CODEOWNERS](./.github/CODEOWNERS), like the license file end users are requested to change
+the file content with the username and/or organization name.
+
 ## Resources
 
 📇🔑 Documentation and/or Resources for your codes, and other mentions can be included in this section! In this section, I'm
