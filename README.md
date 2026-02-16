@@ -75,6 +75,10 @@ the file content with the username and/or organization name.
 ## Resources
 
 📇🔑 Documentation and/or Resources for your codes, and other mentions can be included in this section! In this section, I'm
-trying to provide some external resources which can be helpful for a quick development of your awesome project.
+trying to provide some external resources which can be helpful for your awesome project.
+
+### Awesome Projects
+
+✍ A list of awesome open-source projects that depends/developed from this template.
 
 </div>
