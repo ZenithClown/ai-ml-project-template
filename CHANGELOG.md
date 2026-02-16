@@ -4,6 +4,11 @@
 
 <div align = "justify">
 
+## [v0.1.3](https://github.com/ZenithClown/ai-ml-project-template/releases/tag/v0.1.3) - Logging Feature
+
+Minor bug fixes and enhancements. In addition, a new feature with getting started on logging is added with a minimal
+configuration setup.
+
 ## [v0.1.2](https://github.com/ZenithClown/ai-ml-project-template/releases/tag/v0.1.2) - Minor Bug Fixes
 
 Minor Bug Fixes:
