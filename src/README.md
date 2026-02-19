@@ -15,6 +15,7 @@ print statement. This allows robust controls in a flexible manner. A template lo
 
 ```python
 import yaml
+import logging
 import logging.config
 
 ...
@@ -26,7 +27,7 @@ def loggerConfig(filename : str):
 
 if __name__ == "__main__":
   loggerConfig("../config/logging.yaml")
-  logger = logger.getLogger(__name__)
+  logger = logging.getLogger(__name__)
   ...
 ```
 
